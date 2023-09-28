@@ -1,0 +1,217 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "geek_o_nacci",
+            "request": "launch",
+            "mainClass": "recursion.geek_o_nacci",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "recursion.sumOfDigits",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchSqrt",
+            "request": "launch",
+            "mainClass": "BinarySearchSqrt",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseAnd",
+            "request": "launch",
+            "mainClass": "BitwiseAnd",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "CountBits",
+            "request": "launch",
+            "mainClass": "CountBits",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "DivideTwoIntegers",
+            "request": "launch",
+            "mainClass": "DivideTwoIntegers",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "EleminationGame",
+            "request": "launch",
+            "mainClass": "EleminationGame",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "EuclidAlgorithm",
+            "request": "launch",
+            "mainClass": "EuclidAlgorithm",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "FactorsSqrt",
+            "request": "launch",
+            "mainClass": "FactorsSqrt",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "FindErrorNums",
+            "request": "launch",
+            "mainClass": "FindErrorNums",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "FindRecursion",
+            "request": "launch",
+            "mainClass": "FindRecursion",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "HammingDistance",
+            "request": "launch",
+            "mainClass": "HammingDistance",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "KthFactor",
+            "request": "launch",
+            "mainClass": "KthFactor",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "LengthofString",
+            "request": "launch",
+            "mainClass": "LengthofString",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductofWord",
+            "request": "launch",
+            "mainClass": "MaximumProductofWord",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "MaximumProductofWordLengths",
+            "request": "launch",
+            "mainClass": "MaximumProductofWordLengths",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "MinimumandMaximum",
+            "request": "launch",
+            "mainClass": "MinimumandMaximum",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "MultiplyString",
+            "request": "launch",
+            "mainClass": "MultiplyString",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "NEXTGREATESTELEMNTSIII",
+            "request": "launch",
+            "mainClass": "NEXTGREATESTELEMNTSIII",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "NewtonRaphorSqrt",
+            "request": "launch",
+            "mainClass": "NewtonRaphorSqrt",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElementIII",
+            "request": "launch",
+            "mainClass": "NextGreaterElementIII",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "NumberCompliment",
+            "request": "launch",
+            "mainClass": "NumberCompliment",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductOfArrayExceptSelf",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "RecursiveUniquePaths",
+            "request": "launch",
+            "mainClass": "RecursiveUniquePaths",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "SortingRecursion",
+            "request": "launch",
+            "mainClass": "SortingRecursion",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "rotaedBinarySearch",
+            "request": "launch",
+            "mainClass": "rotaedBinarySearch",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "title",
+            "request": "launch",
+            "mainClass": "title",
+            "projectName": "JavaProgram_4ff9825a"
+        }
+    ]
+}
