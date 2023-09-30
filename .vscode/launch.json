@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubSeq",
+            "request": "launch",
+            "mainClass": "SubSeq",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "recursiveBubbleSort",
+            "request": "launch",
+            "mainClass": "recursion.recursiveBubbleSort",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
+            "name": "recursiveBubbleSort",
+            "request": "launch",
+            "mainClass": "recursiveBubbleSort",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
             "name": "geek_o_nacci",
             "request": "launch",
             "mainClass": "recursion.geek_o_nacci",
