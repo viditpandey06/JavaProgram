@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutationOfString",
+            "request": "launch",
+            "mainClass": "permutationOfString",
+            "projectName": "JavaProgram_4ff9825a"
+        },
+        {
+            "type": "java",
             "name": "SubSeq",
             "request": "launch",
             "mainClass": "SubSeq",
