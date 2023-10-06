@@ -1,3 +1,7 @@
+/**
+ * The recursiveBubbleSort class implements the bubble sort algorithm recursively to sort an array of
+ * integers in ascending order.
+ */
 
 public class recursiveBubbleSort {
     public static void main(String[] args) {
@@ -7,6 +11,13 @@ public class recursiveBubbleSort {
         System.out.print(arr[i]+" ");
        }
     }
+    /**
+     * The bubbleSort function implements the bubble sort algorithm to sort an array of integers in
+     * ascending order.
+     * 
+     * @param arr The array to be sorted.
+     * @param n The parameter `n` represents the number of elements in the array `arr`.
+     */
     public static void bubbleSort(int [] arr, int n){
         if (n == 1)
             return;
